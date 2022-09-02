@@ -1,1 +1,1 @@
-  #!/bin/bash                                                                    ‘mv [[:upper:]]* /tmp/u’ >> 100-let’s_move
+ #!/bin/bash                                                                                                                                     mv [[:upper:]]* /tmp/u
