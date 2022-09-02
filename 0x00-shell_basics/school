@@ -1,3 +1,2 @@
-0 "press tab" string "press tab" SCHOOL "press tab" School data 
-!:mime "press tab" School
-
+0	string	SCHOOL	School data
+!:mime	School
