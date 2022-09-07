@@ -1,1 +1,1 @@
-An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word)
+Write a script that parses web servers logs in TSV format as input and displays
