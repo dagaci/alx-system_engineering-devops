@@ -1,1 +1,1 @@
-Write a script that lists all the files with a .gif extension in the current directory
+An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word)
